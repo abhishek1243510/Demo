@@ -37,3 +37,9 @@ new line added
 \\\\\\\\\\\\\\\custom changes
 \\\\\\\\\\\\\\\custom changes
 \\\\\\\\\\\\\\\custom changes
+
+
+@@@@@@@@@@
+lines added to check 
+whether addition in the end
+affects in conflict or gets auto merged.
