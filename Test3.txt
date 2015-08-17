@@ -1,0 +1,6 @@
+This file is newly created
+Just to test
+Whether at times of merging
+form one branch to another branch
+directly at github
+It gets auto merged or not.

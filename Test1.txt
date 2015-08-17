@@ -1,0 +1,23 @@
+New file Test1 is created.
+#######Line is being added.
+#######Line is being added.
+#######Line is being added.
+
+This is to test
+
+##############Line is being added.
+##############Line is being added.
+
+Whether any changes made in between
+
+
+##############Line is being added.
+#######Line is being added.
+
+Hampers or auto merges 
+
+#######Line is being added.
+#######Line is being added.
+#######Line is being added.
+
+My name is Abhijit.

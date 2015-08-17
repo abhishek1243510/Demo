@@ -1,0 +1,48 @@
+New file test2.txt is created.
+new line added
+new line added
+new line added
+new line added
+\\\\\\\\\\\\\\\custom changes
+new line added
+new line added
+new line added
+new line added
+\\\\\\\\\\\\\\\custom changes
+new line added
+new line added
+new line added
+new line added
+new line added
+\\\\\\\\\\\\\\\custom changes
+\\\\\\\\\\\\\\\custom changes
+new line added
+new line added
+new line added
+new line added
+new line added
+new line added
+\\\\\\\\\\\\\\\custom changes
+\\\\\\\\\\\\\\\custom changes
+\\\\\\\\\\\\\\\custom changes
+new line added
+new line added
+new line added
+new line added
+new line added
+\\\\\\\\\\\\\\\custom changes
+\\\\\\\\\\\\\\\custom changes
+\\\\\\\\\\\\\\\custom changes
+\\\\\\\\\\\\\\\custom changes
+\\\\\\\\\\\\\\\custom changes
+\\\\\\\\\\\\\\\custom changes
+\\\\\\\\\\\\\\\custom changes
+
+
+@@@@@@@@@@
+lines added to check 
+whether addition in the end
+affects in conflict or gets auto merged.
+
+
+Abhijit Paul
