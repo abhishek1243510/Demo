@@ -28,3 +28,6 @@ hi added.
 from master
 
 This is to test the git cherrypick activity
+
+Cherry pick has been learnt.
+Now its time to learn squash.
