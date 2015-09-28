@@ -4,3 +4,5 @@ Whether at times of merging
 form one branch to another branch
 directly at github
 It gets auto merged or not.
+
+All these commits will be reflected in a single commits, in other branch
